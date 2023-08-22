@@ -5,7 +5,6 @@
 
   1. [Linkedin](https://www.linkedin.com/in/xuemei-huang/)
   2. [Portfolio]()
-  3. [Another]()
 
   ### My Stack
 
