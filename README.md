@@ -4,7 +4,7 @@
   ### Where to find me 🖥️:
 
   1. [Linkedin](https://www.linkedin.com/in/xuemei-huang/)
-  2. [Portfolio]()
+  2. [Portfolio](https://meifruit.netlify.app/)
 
   ### My Stack
 
