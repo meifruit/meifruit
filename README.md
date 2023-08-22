@@ -3,8 +3,10 @@
 
   ### Where to find me 🖥️:
 
-  1. [Linkedin](https://www.linkedin.com/in/xuemei-huang/)
-  2. [Portfolio](https://meifruit.netlify.app/)
+1. <a href="https://www.linkedin.com/in/xuemei-huang/" target="_blank">Linkedin</a>
+2. <a href="https://meifruit.netlify.app/" target="_blank">Portfolio</a>
+
+
 
   ### My Stack
 
