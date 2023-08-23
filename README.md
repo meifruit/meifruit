@@ -3,7 +3,7 @@
 
   ### Where to find me 🖥️:
 
-1. <a href="https://www.linkedin.com/in/xuemei-huang/" target="_blank">Linkedin</a>
+- <a href="https://www.linkedin.com/in/xuemei-huang/" target="_blank">Linkedin</a>
 
   ### My Stack
 
